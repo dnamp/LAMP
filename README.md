@@ -1,2 +1,2 @@
-# Lnmp
+# LNMP
 LNMP and DNMP Script
